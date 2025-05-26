@@ -44,6 +44,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`4b68ef4`](https://github.com/stdlib-js/stdlib/commit/4b68ef463823ebbe3d4bede1629c04ca00a6a19f) - **docs:** remove references section _(by Karan Anand)_
 -   [`9a41c60`](https://github.com/stdlib-js/stdlib/commit/9a41c60577db195a819cbc161bf41961343f7cfb) - **fix:** correct `FLOAT32_GAMMA_LANCZOS_G` _(by Karan Anand)_
 -   [`9da756f`](https://github.com/stdlib-js/stdlib/commit/9da756fc7693aabf8ccb8e8af1a444372253f4f4) - **chore:** update test messages in `constants/float32` [(#6772)](https://github.com/stdlib-js/stdlib/pull/6772) _(by Harsh)_
 -   [`04f0f1e`](https://github.com/stdlib-js/stdlib/commit/04f0f1e3fc1bf222de7708c66710512b3f47a979) - **feat:** add `constants/float32/gamma-lanczos-g` [(#6096)](https://github.com/stdlib-js/stdlib/pull/6096) _(by Neeraj Pathak, stdlib-bot)_
