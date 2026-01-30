@@ -50,6 +50,11 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
+FLOAT32_GAMMA_LANCZOS_G = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-gamma-lanczos-g@umd/browser.js' )
+```
+The previous example will load the latest bundled code from the umd branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/constants-float32-gamma-lanczos-g/tags). For example,
+
+```javascript
 FLOAT32_GAMMA_LANCZOS_G = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-gamma-lanczos-g@v0.1.0-umd/browser.js' )
 ```
 
@@ -62,7 +67,7 @@ var FLOAT32_GAMMA_LANCZOS_G = require( 'path/to/vendor/umd/constants-float32-gam
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-gamma-lanczos-g@v0.1.0-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-gamma-lanczos-g@umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -98,7 +103,7 @@ var bool = ( FLOAT32_GAMMA_LANCZOS_G === 1.42845618724823 );
 <!DOCTYPE html>
 <html lang="en">
 <body>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-gamma-lanczos-g@v0.1.0-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-gamma-lanczos-g@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
