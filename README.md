@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT32_GAMMA_LANCZOS_G from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-gamma-lanczos-g@esm/index.mjs';
+import FLOAT32_GAMMA_LANCZOS_G from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-gamma-lanczos-g@v0.1.0-esm/index.mjs';
 ```
 
 #### FLOAT32_GAMMA_LANCZOS_G
@@ -76,7 +76,7 @@ var bool = ( FLOAT32_GAMMA_LANCZOS_G === 1.42845618724823 );
 <body>
 <script type="module">
 
-import FLOAT32_GAMMA_LANCZOS_G from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-gamma-lanczos-g@esm/index.mjs';
+import FLOAT32_GAMMA_LANCZOS_G from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-gamma-lanczos-g@v0.1.0-esm/index.mjs';
 
 console.log( FLOAT32_GAMMA_LANCZOS_G );
 // => 1.42845618724823
