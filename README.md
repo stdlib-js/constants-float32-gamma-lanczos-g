@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT32_GAMMA_LANCZOS_G from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-gamma-lanczos-g@deno/mod.js';
+import FLOAT32_GAMMA_LANCZOS_G from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-gamma-lanczos-g@v0.1.1-deno/mod.js';
 ```
 
 #### FLOAT32_GAMMA_LANCZOS_G
@@ -71,7 +71,7 @@ var bool = ( FLOAT32_GAMMA_LANCZOS_G === 1.42845618724823 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import FLOAT32_GAMMA_LANCZOS_G from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-gamma-lanczos-g@deno/mod.js';
+import FLOAT32_GAMMA_LANCZOS_G from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-gamma-lanczos-g@v0.1.1-deno/mod.js';
 
 console.log( FLOAT32_GAMMA_LANCZOS_G );
 // => 1.42845618724823
