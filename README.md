@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import FLOAT32_GAMMA_LANCZOS_G from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-gamma-lanczos-g@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/constants-float32-gamma-lanczos-g/tags). For example,
+
+```javascript
 import FLOAT32_GAMMA_LANCZOS_G from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-gamma-lanczos-g@v0.1.1-esm/index.mjs';
 ```
 
@@ -76,7 +81,7 @@ var bool = ( FLOAT32_GAMMA_LANCZOS_G === 1.42845618724823 );
 <body>
 <script type="module">
 
-import FLOAT32_GAMMA_LANCZOS_G from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-gamma-lanczos-g@v0.1.1-esm/index.mjs';
+import FLOAT32_GAMMA_LANCZOS_G from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-gamma-lanczos-g@esm/index.mjs';
 
 console.log( FLOAT32_GAMMA_LANCZOS_G );
 // => 1.42845618724823
